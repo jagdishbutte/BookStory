@@ -19,7 +19,7 @@ function Cards({item}) {
             <p>{item.title}</p>
             <div className="card-actions justify-between">
               <div className="badge badge-outline">Rs.{item.price}</div>
-              <div className="border-[2px] px-2 py-1 rounded-full hover:text-white hover:bg-pink-500">Buy Now</div>
+              <div className="border-[2px] px-2 py-1 rounded-full hover:text-white hover:bg-green-500">Buy Now</div>
             </div>
           </div>
         </div>

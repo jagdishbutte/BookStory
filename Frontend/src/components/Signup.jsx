@@ -13,7 +13,7 @@ function Signup() {
   return (
     <>
       <div className="flex h-screen items-center justify-center">
-        <div className="w-[600px]">
+        <div id="my_modal_4" className="w-[600px]">
           <div className="modal-box dark:bg-slate-900 dark:text-white">
             <form onSubmit={handleSubmit(onSubmit)} method="dialog">
               {/* if there is a button in form, it will close the modal */}
@@ -84,9 +84,9 @@ function Signup() {
                   Have account?{" "}
                   <button
                     className="underline text-green-500 hover:text-green-400 cursor-pointer"
-                    onClick={() =>
-                      document.getElementById("my_modal_3").showModal()
-                    }
+                    onClick={() => {
+                      document.getElementById("my_modal_3").showModal();
+                    }}
                   >
                     Login
                   </button>{" "}
