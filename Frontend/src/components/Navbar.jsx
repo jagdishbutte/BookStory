@@ -98,10 +98,10 @@ function Navbar() {
               <ul className="menu menu-horizontal px-1">{navItems}</ul>
             </div>
             <div className="hidden md:block">
-              <label className="px-3 py-2 border rounded-md flex items-center gap-2">
+              <label className="px-3 py-2 border rounded-md flex items-center gap-2  dark:bg-slate-800 dark:text-white">
                 <input
                   type="text"
-                  className="grow outline-none dark:bg-slate-900 dark:text-white"
+                  className="grow outline-none  dark:bg-slate-800 dark:text-white"
                   placeholder="Search"
                 />
                 <svg

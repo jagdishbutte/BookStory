@@ -10,7 +10,7 @@ function Contactus() {
   const onSubmit = (data) => console.log(data);
   return (
     <>
-      <div className="flex h-[600px] items-center justify-center">
+      <div className="flex h-[600px] items-center justify-center mx-6">
         <div className="w-[600px]">
           <div className="">
             <form
