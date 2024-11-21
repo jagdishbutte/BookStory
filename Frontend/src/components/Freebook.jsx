@@ -46,8 +46,8 @@ function Freebook() {
 
   return (
     <>
-      <div className="max-w-screen-2xl container mx-auto md:px-20 px-4">
-        <div>
+      <div className="max-w-screen-2xl container mx-auto md:px-20 px-4 mt-6">
+        <div className="space-y-6">
           <h1 className="font-semibold text-xl">Free Offered Courses</h1>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
