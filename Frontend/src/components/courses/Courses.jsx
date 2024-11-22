@@ -8,7 +8,9 @@ function Courses() {
   return (
     <div className="">
       <Navbar />
-      <Course />
+      <div className="min-h-screen">
+      <Course/>
+      </div>
       <Footer />
     </div>
   );
