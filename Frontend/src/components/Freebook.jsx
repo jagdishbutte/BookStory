@@ -63,9 +63,11 @@ function Freebook() {
         <div className="space-y-6">
           <h1 className="font-semibold text-xl">Free Offered Courses</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            similique quos reprehenderit temporibus nostrum. Repellat et
-            asperiores accusantium excepturi enim.
+            Discover our free courses and take the first step towards achieving
+            your goals with BookStory! From captivating stories to practical
+            knowledge, our courses are designed to ignite curiosity and foster
+            growth. Start your journey today, and make learning a part of your
+            everyday adventure!
           </p>
         </div>
 

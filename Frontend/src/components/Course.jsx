@@ -26,14 +26,15 @@ function Course() {
             <span className="text-white">.</span>
           </h1>
 
-          <h1 className="mt-20 text-2xl md:text-4xl font-semibold">We are deighted to have you{" "} <span className="text-green-500">here :)</span></h1>
+          <h1 className="mt-20 text-2xl md:text-4xl font-semibold">
+            We are deighted to have you{" "}
+            <span className="text-green-500">here :)</span>
+          </h1>
           <p className="mt-12">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae
-            a doloremque quos, dolores optio temporibus minima sed culpa saepe,
-            quidem hic aperiam, porro facilis expedita neque libero! Quod optio
-            tempore facilis consequatur, maiores voluptate itaque laudantium
-            culpa veritatis. Deserunt, eius. Nobis provident inventore vitae
-            praesentium sed perferendis laboriosam neque tenetur.
+            Explore our wide range of courses designed to inspire, educate, and
+            empower you. Whether you’re pursuing a new passion or enhancing your
+            skills, our curated content is tailored to meet your needs. Dive in
+            and start your journey of growth and discovery today!
           </p>
           <Link to={"/"}>
             <button className="mt-6 bg-green-500 hover:bg-green-700 px-4 py-2 rounded-md duration-300">

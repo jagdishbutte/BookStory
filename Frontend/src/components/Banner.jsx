@@ -11,9 +11,10 @@ function Banner() {
               <span className="text-green-500">new everyday!!!</span>
             </h1>
             <p className="text-xl">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
-              voluptatibus nemo quos eveniet neque autem, ullam maiores magni
-              quam fugiat.
+              Unlock a world of knowledge and growth with BookStory! Expand your
+              horizons, one story at a time. From inspiring tales to insightful
+              lessons, there’s always something new to discover. Let’s make
+              every day a learning adventure!
             </p>
             <label className="input input-bordered flex items-center gap-2 mr-12  dark:bg-slate-800 dark:text-white">
               <svg

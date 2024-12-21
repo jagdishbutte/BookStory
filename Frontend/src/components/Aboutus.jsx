@@ -11,14 +11,16 @@ function Aboutus() {
             <span className="text-white">.</span>
           </h1>
 
-          <h1 className="mt-20 text-2xl md:text-4xl font-semibold">What is a{" "} <span className="text-green-500">BookStory?</span></h1>
+          <h1 className="mt-20 text-2xl md:text-4xl font-semibold">
+            What is a <span className="text-green-500">BookStory?</span>
+          </h1>
           <p className="mt-12">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae
-            a doloremque quos, dolores optio temporibus minima sed culpa saepe,
-            quidem hic aperiam, porro facilis expedita neque libero! Quod optio
-            tempore facilis consequatur, maiores voluptate itaque laudantium
-            culpa veritatis. Deserunt, eius. Nobis provident inventore vitae
-            praesentium sed perferendis laboriosam neque tenetur.
+            BookStory is your gateway to knowledge, growth, and inspiration.
+            It’s a platform designed to connect curious minds with enriching
+            content, empowering individuals to explore new ideas and unlock
+            their potential. From thought-provoking courses to engaging stories,
+            BookStory transforms learning into an exciting adventure. Join us
+            and start your journey today!
           </p>
           <Link to={"/"}>
             <button className="mt-6 bg-green-500 hover:bg-green-700 px-4 py-2 rounded-md duration-300">
